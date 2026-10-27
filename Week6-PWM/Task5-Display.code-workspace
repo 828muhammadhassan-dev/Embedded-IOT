@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../Display/Task5-Display"
+		},
+		{
+			"name": "Homework",
+			"path": "../Homework"
+		},
+		{
+			"name": "Week6-PWM",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
